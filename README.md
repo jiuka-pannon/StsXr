@@ -1,0 +1,2 @@
+# StsXr
+customer publishing repository
